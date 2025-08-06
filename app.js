@@ -56,4 +56,4 @@ function sortearAmigo(){
     resultado.innerHTML = `<li>Amigo sorteado: ${nombreSorteado}</li>`;
 }
 
-//looo
+
